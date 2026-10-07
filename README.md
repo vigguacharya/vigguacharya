@@ -1,99 +1,53 @@
-👋 Hi, I'm Vighnesh Acharya
+# Hi 👋 I'm Vaibhava G
+
 🎓 Computer Science & Engineering Student | 💻 Developer | 🚀 Tech Enthusiast
 
-I'm a Computer Science & Engineering student passionate about building practical applications, solving problems, and exploring emerging technologies.
+I enjoy building practical applications, solving problems, and exploring new technologies.
 
-I enjoy turning ideas into useful software, learning new technologies, and continuously improving my development skills.
+💻 Interested in Full-Stack Development & AI  
+🧠 Passionate about software development and problem-solving  
+🚀 I like turning ideas into practical and useful applications  
+🌱 Always curious to learn, experiment, and improve  
 
-🚀 About Me
+## 🎯 Goal
 
-💻 Interested in Full-Stack Development & AI
+To build useful software, strengthen my problem-solving skills, and keep growing as a developer.
 
-🧠 Passionate about software development and problem-solving
+---
 
-🚀 Love turning ideas into practical and useful applications
+## 💻 Tech Stack
 
-🤖 Exploring Artificial Intelligence & Computer Vision
+### Languages
 
-🌱 Always curious to learn, experiment, and improve
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-📚 Continuously learning modern development practices
+### Frontend
 
-🎯 My Goal
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Build useful software, strengthen my problem-solving skills, and continuously grow as a developer.
+### Backend
 
-💻 Tech Stack
-👨‍💻 Languages
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+### Database
 
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### AI / Computer Vision
 
+![OpenCV](https://img.shields.io/badge/OPENCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 
-🎨 Frontend
+### Tools
 
-
-
-
-
-
-⚙️ Backend
-
-
-
-
-
-🗄️ Databases
-
-
-
-
-🤖 AI & Computer Vision
-
-🛠️ Tools & Technologies
-
-
-
-
-
-
-
-🚀 What I'm Working On
-
-🔨 Building practical full-stack applications
-
-🤖 Exploring AI and Computer Vision
-
-🧩 Improving my problem-solving and development skills
-
-📚 Learning new technologies and development practices
-
-💡 Experimenting with ideas and turning them into working projects
-
-📈 My GitHub Journey
-
-I use GitHub to document my projects, experiment with ideas, collaborate, and continuously improve my development skills.
-
-I'm focused on building consistently, learning from every project, and becoming a better developer one step at a time.
-
-💻 Code. Learn. Build. Repeat. 🚀
-🤝 Let's Connect
-
-I'm always interested in connecting with:
-
-👨‍💻 Fellow Developers
-
-🎓 Students
-
-🤖 AI & Tech Enthusiasts
-
-🚀 Builders & Creators
-
-⭐ Feel free to explore my repositories and follow my journey!
-
-<div align="center">
-🚀 Thanks for visiting my profile!
-
-Keep learning. Keep building. Keep growing.
-
-</div>
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
