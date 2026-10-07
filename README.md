@@ -1,8 +1,11 @@
-Hi 👋, I'm Vighnesh Acharya
-
+👋 Hi, I'm Vighnesh Acharya
 🎓 Computer Science & Engineering Student | 💻 Developer | 🚀 Tech Enthusiast
 
-I'm a Computer Science & Engineering student who enjoys building practical applications, solving problems, and exploring new technologies.
+I'm a Computer Science & Engineering student passionate about building practical applications, solving problems, and exploring emerging technologies.
+
+I enjoy turning ideas into useful software, learning new technologies, and continuously improving my development skills.
+
+🚀 About Me
 
 💻 Interested in Full-Stack Development & AI
 
@@ -10,58 +13,87 @@ I'm a Computer Science & Engineering student who enjoys building practical appli
 
 🚀 Love turning ideas into practical and useful applications
 
+🤖 Exploring Artificial Intelligence & Computer Vision
+
 🌱 Always curious to learn, experiment, and improve
+
+📚 Continuously learning modern development practices
 
 🎯 My Goal
 
 Build useful software, strengthen my problem-solving skills, and continuously grow as a developer.
 
 💻 Tech Stack
+👨‍💻 Languages
 
-Languages
 
-Java Python SQL
 
-Frontend
 
-HTML5 CSS3 JavaScript React
 
-Backend
+🎨 Frontend
 
-Node.js Express.js Flask
 
-Databases
 
-MySQL MongoDB
 
-AI & Computer Vision
 
-OpenCV
 
-Tools & Technologies
+⚙️ Backend
 
-Git GitHub Docker VS Code Tinkercad
+
+
+
+
+🗄️ Databases
+
+
+
+
+🤖 AI & Computer Vision
+
+🛠️ Tools & Technologies
+
+
+
+
+
+
 
 🚀 What I'm Working On
 
 🔨 Building practical full-stack applications
 
-🤖 Exploring AI and computer vision
+🤖 Exploring AI and Computer Vision
 
 🧩 Improving my problem-solving and development skills
 
 📚 Learning new technologies and development practices
 
-📈 GitHub Journey
+💡 Experimenting with ideas and turning them into working projects
 
-I use GitHub to document my projects, experiment with ideas, and continuously improve my development skills.
+📈 My GitHub Journey
 
-Code. Learn. Build. Repeat. 🚀
+I use GitHub to document my projects, experiment with ideas, collaborate, and continuously improve my development skills.
 
+I'm focused on building consistently, learning from every project, and becoming a better developer one step at a time.
+
+💻 Code. Learn. Build. Repeat. 🚀
 🤝 Let's Connect
 
-I'm always interested in connecting with fellow developers, students, and tech enthusiasts.
+I'm always interested in connecting with:
+
+👨‍💻 Fellow Developers
+
+🎓 Students
+
+🤖 AI & Tech Enthusiasts
+
+🚀 Builders & Creators
 
 ⭐ Feel free to explore my repositories and follow my journey!
 
+<div align="center">
+🚀 Thanks for visiting my profile!
 
+Keep learning. Keep building. Keep growing.
+
+</div>
